@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(255, 255, 255) ;
+    color: rgb(0, 0, 0);
+}
+
+.conteiner{
+    margin: 0% 2%;
+    
+}
+.neme {
+    font-weight: bold;
+    font-size: 36px;
+    font-family: "Inconsolata", monospace;
+    margin-right: 500px;
+    
+    
+}
+
+.header-line {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    
+}
+
+.nav-item{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: weight;
+    font-style: bold;
+    font-variation-settings:
+    "slnt" 0;
+    margin-right: 25px;
+    
+    font-weight: 1000;
+
+
+}
+
+
+.btn {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 1000;
+    
+    background: #000000; /* Цвет фона */
+   
+    padding: 15px; /* Поля вокруг текста */
+    margin-bottom: 10px;
+    border-radius: 8px;
+    font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+}
+
+.osait {
+    background: #D9D9D9; /* Цвет фона */
+   
+    padding: 190px 70px; /* Поля вокруг текста */
+    margin-bottom: 10px;
+    border-radius: 29px;
+    font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    width: 469px;
+    height: 529px;
+    margin-top: 100px;
+
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: weight;
+    font-variation-settings:
+    "slnt" 0;
+    margin-right: 25px;
+    font-size: 54px;
+    font-weight: 1000;
+}
+
+
+.notes {
+    background: #D9D9D9; /* Цвет фона */
+   
+    padding: 71px 157px; /* Поля вокруг текста */
+    margin-bottom: 10px;
+    border-radius: 8px;
+    font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    width: 469px;
+    height: 529px;
+
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: weight;
+    font-variation-settings:
+    "slnt" 0;
+    margin-right: 25px;
+    font-size: 54px;
+    font-weight: 1000;
+    
+
+
+    
+}
+
+.navigs {
+    margin-top: 200px;
+    margin-left: 25px;
+
+}
+
